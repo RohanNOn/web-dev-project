@@ -24,4 +24,12 @@ function data(){
 }
 
 
+console.log('herkjihdsfhnkgr')
+
+
 data()
+
+function doing(){
+  return 'general'
+}
+doing()
