@@ -9,3 +9,10 @@ function demo(){
 }
 
 demo();
+
+
+function hello(){
+  return 'hello'
+}
+
+hello()
