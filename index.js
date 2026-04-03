@@ -16,3 +16,12 @@ function hello(){
 }
 
 hello()
+
+
+
+function data(){
+  return 'hello'
+}
+
+
+data()
